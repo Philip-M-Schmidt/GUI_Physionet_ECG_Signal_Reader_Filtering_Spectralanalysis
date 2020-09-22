@@ -201,7 +201,7 @@ class Filters(tk.Frame):
         ttk.Button(self, text="Band Stop Filtering",
             command=lambda: master.switch_frame(Bandstop_Filter)).pack(pady=3,padx=10)
 
-        label = tk.Label(self, text="This is the ECG we are going to filter! Please select your filter :)", font=LARGE_FONT)
+        label = tk.Label(self, text="Please select your filter :)", font=LARGE_FONT)
         label.pack(pady=10,padx=10)
     
 
