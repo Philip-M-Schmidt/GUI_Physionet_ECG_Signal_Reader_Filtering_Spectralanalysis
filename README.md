@@ -14,4 +14,5 @@ Bandpass filtered selected ECG with selfselected CutOffFrequency and Ordernumber
 ![](https://github.com/Philip-M-Schmidt/GUI_Physionet_ECG_Signal_Reader_Filtering_Spectralanalysis/blob/master/Pictures/2020-09-22%2019_53_39-GUI%20Physionet%20ECG%20Signal%20Reader%20with%20advanced%20Filtering%20and%20Spectralanalysis.png)
 
 Options of different filters:
+
 ![](https://github.com/Philip-M-Schmidt/GUI_Physionet_ECG_Signal_Reader_Filtering_Spectralanalysis/blob/master/Pictures/2020-09-22%2019_56_09-GUI%20Physionet%20ECG%20Signal%20Reader%20with%20advanced%20Filtering%20and%20Spectralanalysis.png)
